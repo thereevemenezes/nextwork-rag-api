@@ -22,7 +22,7 @@ def test_nextwork_query():
     answer = response.json()["answer"]
 
     # Check for key concepts from nextwork.txt
-    assert "maximus" in answer.lower(), "Missing 'maximus' keyword"
+    assert "maximus" in answer.lower(), "Missing 'platform' keyword"
     
     print("✅ NextWork query test passed")
 
