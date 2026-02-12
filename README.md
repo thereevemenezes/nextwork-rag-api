@@ -151,3 +151,5 @@ The project includes a GitHub Actions workflow that:
 
 This ensures RAG document changes maintain expected semantic behavior.
 
+This project was built as part of the NextWork AI DevOps challenge
+
